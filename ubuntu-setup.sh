@@ -3,7 +3,7 @@
 sudo apt-get update
 
 # 파이썬 설치
-sudo add-apt-repository ppa:deadsnakes/ppa
+sudo add-apt-repository ppa:deadsnakes/ppa -y
 sudo apt install python3.10 -y
 sudo apt-get install python3.10-venv -y
 
